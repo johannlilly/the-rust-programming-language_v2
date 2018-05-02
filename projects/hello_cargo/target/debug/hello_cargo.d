@@ -1,0 +1,1 @@
+/Users/user/Documents/GitHub/the-rust-programming-language_v2/projects/hello_cargo/target/debug/hello_cargo.dSYM: /Users/user/Documents/GitHub/the-rust-programming-language_v2/projects/hello_cargo/src/main.rs
